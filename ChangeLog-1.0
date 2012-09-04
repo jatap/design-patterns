@@ -1,0 +1,18 @@
+commit aa710045049852664c303880780be89929bdfb75
+Merge: a1e1b95 c0a4687
+Author: Julio Antúnez Tarín <julio.antunez.tarin@gmail.com>
+Date:   Wed Sep 5 01:14:02 2012 +0200
+
+    Merge branch 'feature-start' into develop
+
+commit c0a46870f7b6b4c36cf26930f253090a59c9be23
+Author: Julio Antúnez Tarín <julio.antunez.tarin@gmail.com>
+Date:   Wed Sep 5 01:13:31 2012 +0200
+
+    - Added initial design patterns.
+
+commit a1e1b95c9721640f02379caac74f9e351f2067d7
+Author: Julio Antúnez Tarín <julio.antunez.tarin@gmail.com>
+Date:   Wed Sep 5 00:57:14 2012 +0200
+
+    - Added composer and monolog.
