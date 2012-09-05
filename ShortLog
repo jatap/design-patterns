@@ -1,0 +1,11 @@
+Julio Antúnez Tarín (9):
+      - Added composer and monolog.
+      - Added initial design patterns.
+      Merge branch 'feature-start' into develop
+      - Bumped version to number 1.0.
+      Merge branch 'release-1.0' into develop
+      - Updating README.md.
+      - Updating README.md.
+      - Removed monolog.
+      - Merge branch 'feature-full-cleaning' into develop
+
