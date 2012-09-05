@@ -1,0 +1,56 @@
+commit b5774fdc99c98e829be177762701392e76ac8edc
+Merge: bc3ae80 881a2e3
+Author: Julio Antúnez Tarín <julio.antunez.tarin@gmail.com>
+Date:   Wed Sep 5 06:11:13 2012 +0200
+
+    - Merge branch 'feature-full-cleaning' into develop
+
+commit 881a2e33244f3230eb204dff4653987a3ab41cdb
+Author: Julio Antúnez Tarín <julio.antunez.tarin@gmail.com>
+Date:   Wed Sep 5 06:10:16 2012 +0200
+
+    - Removed monolog.
+
+commit 4f8a17d2f7442271a271234fc2fe9c22bcf796f3
+Author: Julio Antúnez Tarín <julio.antunez.tarin@gmail.com>
+Date:   Wed Sep 5 06:07:06 2012 +0200
+
+    - Updating README.md.
+
+commit bc3ae80959898fb5719a026b2de07dba635e533f
+Author: Julio Antúnez Tarín <julio.antunez.tarin@gmail.com>
+Date:   Wed Sep 5 06:07:06 2012 +0200
+
+    - Updating README.md.
+
+commit 26ec6389e74902b093df6c47a35f67b9a24c14cc
+Merge: aa71004 5859ed8
+Author: Julio Antúnez Tarín <julio.antunez.tarin@gmail.com>
+Date:   Wed Sep 5 01:20:03 2012 +0200
+
+    Merge branch 'release-1.0' into develop
+
+commit 5859ed80cc186663b2ccd0a71266fd0292555545
+Author: Julio Antúnez Tarín <julio.antunez.tarin@gmail.com>
+Date:   Wed Sep 5 01:19:18 2012 +0200
+
+    - Bumped version to number 1.0.
+
+commit aa710045049852664c303880780be89929bdfb75
+Merge: a1e1b95 c0a4687
+Author: Julio Antúnez Tarín <julio.antunez.tarin@gmail.com>
+Date:   Wed Sep 5 01:14:02 2012 +0200
+
+    Merge branch 'feature-start' into develop
+
+commit c0a46870f7b6b4c36cf26930f253090a59c9be23
+Author: Julio Antúnez Tarín <julio.antunez.tarin@gmail.com>
+Date:   Wed Sep 5 01:13:31 2012 +0200
+
+    - Added initial design patterns.
+
+commit a1e1b95c9721640f02379caac74f9e351f2067d7
+Author: Julio Antúnez Tarín <julio.antunez.tarin@gmail.com>
+Date:   Wed Sep 5 00:57:14 2012 +0200
+
+    - Added composer and monolog.
